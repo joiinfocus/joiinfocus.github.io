@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<title>Mariah Wilson, photgrapher</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Mariah!</h1>
+				<p>PHOTOS. <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:joiinfocus@gmail.com">email</a></li>
+        		<li><a href="https://github.com/joiinfocus">github.com/joiinfocus</a></li>
+        		<li><a href="https://twitter.com/joiinfocus">twitter</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
